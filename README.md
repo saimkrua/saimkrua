@@ -6,7 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saimkrua&show_icons=true&locale=en&layout=compact" alt="saimkrua" />
 
 ## Reach me 
-🎨 [Figma](figma.md)  
+🎨 [Some Desidgn](design.md)  
 📄 [Resume](SatapornKruatejah_resume.pdf)  
 📨 k.satapornimp@gmail.com  
 🔗 [Linkedin](https://www.linkedin.com/in/sataporn-kruatejah-920675158/)
