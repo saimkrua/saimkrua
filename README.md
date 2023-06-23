@@ -1,6 +1,11 @@
 
-## 💻Languages and Tools
-<p align="left"> 
+<h2 align="center">💻 Languages and Tools</h2>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saimkrua&show_icons=true&locale=en&layout=compact" alt="saimkrua" style="width: auto; height: 150px;"/>
+</p>
+
+<p align="center"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -16,12 +21,9 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saimkrua&show_icons=true&locale=en&layout=compact" alt="saimkrua" style="width: auto; height: 150px;"/>
-  <img src="src/cat1.gif" style="width: auto; height: 150px;" />
-</p>
 
 
+<a ><img align="right" src="src/cat1.gif" style="width: auto; height: 300px;" /></a>
 ## Portfolio 
 📄 [Resume](SatapornKruatejah_resume.pdf)  
 🎨 [Some Design](design.md)   
