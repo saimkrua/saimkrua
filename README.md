@@ -1,5 +1,5 @@
 
-<a href="#"><img align="right" src="src/cat1.gif" style="width: auto; height: 400px;" /></a>
+<a><img align="right" src="src/cat1.gif" style="width: auto; height: 380px;" /></a>
 
 ## 💻Languages and Tools
 <p align="left"> 
