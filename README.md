@@ -25,7 +25,7 @@
 
 <a ><img align="right" src="src/cat1.gif" style="width: auto; height: 300px;" /></a>
 ## Portfolio 
-📄 [Resume](SatapornKruatejah_resume_ML.pdf.pdf)  
+📄 [Resume](SatapornKruatejah_resume.pdf)  
 🎨 [Some Design](design.md)   
 👩‍💻 [Some Project](project.md)
 
