@@ -22,8 +22,7 @@
 </p>
 
 
-
-<a ><img align="right" src="src/cat1.gif" style="width: auto; height: 300px;" /></a>
+<!-- <a ><img align="right" src="src/cat1.gif" style="width: auto; height: 300px;" /></a> -->
 ## Portfolio 
 📄 [Resume](SatapornKruatejah_resume.pdf)  
 🎨 [Some Design](design.md)   
